@@ -1,4 +1,4 @@
-# 👋 Hi, @rjbassig
+# 👋 Hi, I am @rjbassig
 
 🎓 Data Science student at UC San Diego  
 💻 Building full-stack apps, data science projects, and ML experiments  
